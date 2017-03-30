@@ -15,8 +15,10 @@ sudo apt-get install ipython3
 sudo pip3 install jupyter
 sudo pip3 install numpy
 sudo pip3 install matplotlib
-sudo pip3 install 
+sudo pip3 install scikit-video
 sudo pip3 install scikit-image
+sudo pip3 install scikit-learn
+
 
 
 ```
