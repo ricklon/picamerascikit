@@ -21,8 +21,11 @@ sudo pip3 install scikit-learn
 ```
 ##Default on the PI
 PI Camera
+
 `import picamera`
+
 DOCS:
+
 https://picamera.readthedocs.io/en/release-1.13/
 
 ## Arg. Fix for pip3 error
