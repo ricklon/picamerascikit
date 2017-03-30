@@ -16,7 +16,7 @@ sudo pip3 install jupyter
 sudo pip3 install numpy
 sudo pip3 install --no-cache-dir   matplotlib
 sudo pip3 install scikit-video
-sudo pip3 install  --no-cache-dir  scikit-image
+sudo pip3 install -U scikit-image
 sudo pip3 install scikit-learn
 ```
 ##Default on the PI
